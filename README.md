@@ -28,8 +28,8 @@ Welcome to my GitHub! I’m a passionate **DevOps Engineer** with over 3 years o
 
 ## 📫 Get in Touch
 
-- 📧 Email: [mtejamaruri@example.com](mailto:mteja4031@gmail.com)
-- 🌐 LinkedIn: [linkedin.com/in/mtejamaruri](https://www.linkedin.com/in/manas-teja/)
+- 📧 Email: [mteja4031@gmail.com](mailto:mteja4031@gmail.com)
+- 🌐 LinkedIn: [linkedin.com/in/manas-teja/](https://www.linkedin.com/in/manas-teja/)
 
 <!---
 mteja26/mteja26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
