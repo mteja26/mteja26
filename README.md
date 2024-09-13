@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m a passionate **DevOps Engineer** with over 3 years o
 
 - 🔭 I’m currently working as a **DevOps Engineer**. Where I design and manage cloud infrastructure and DevOps processes to support global projects.
 - 🌱 I’m always learning and currently improving my skills in **AWS**, **Azure** and **Serverless Architectures**.
-- 💼 I’m a **Freelance DevOps Engineer**, helping clients optimize their cloud infrastructure and streamline deployments.
+- 💼 I’m a **DevOps Engineer**, helping clients optimize their cloud infrastructure and streamline deployments.
 - 📚 I hold a **Master of Information Systems and Technology** from the **University of Missouri-Saint Louis**, completed in December 2023.
 - 🛠 Certified in **AWS Solutions Architect**, **Microsoft Azure Administrator**, and proficient in **Python**.
 
