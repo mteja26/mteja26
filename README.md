@@ -1,4 +1,4 @@
-# Hi there, I'm M Teja Maruri! 👋
+# Hi there, I'm Manas Teja M! 👋
 
 Welcome to my GitHub! I’m a passionate **DevOps Engineer** with over 5 years of experience in Cloud DevOps. My primary focus is on **CI/CD pipelines**, **cloud computing**, and **infrastructure automation** using tools like **AWS**, **Terraform**, **Kubernetes**, **Ansible**, and **Docker**. I have a track record of delivering scalable, reliable, and cost-effective solutions in various projects.
 
